@@ -2,65 +2,38 @@
 title: Bienvenido a mi blog de GitHub de prueba!
 ---
 
+# ⚽ Ronaldo Nazário – El Fenómeno
 
-# 🛡️ Inteligencia Artificial para la Seguridad en las Calles
+![Ronaldo Nazário](https://sint.es/wp-content/uploads/2023/07/seguridad-ciudadana-inteligencia-artificial.jpg)
 
-Este repositorio contiene una prueba de concepto que demuestra cómo los algoritmos de inteligencia artificial pueden aplicarse a entornos urbanos para mejorar la seguridad pública. La iniciativa busca detectar comportamientos anómalos, identificar riesgos potenciales y asistir en la toma de decisiones mediante el análisis de datos en tiempo real.
+Ronaldo Luís Nazário de Lima (Río de Janeiro, Brasil, 18 de septiembre de 1976) es un exfutbolista brasileño considerado uno de los mejores delanteros de todos los tiempos. Su estilo de juego explosivo, su capacidad de definición y su regate imparable lo convirtieron en una leyenda del fútbol mundial.
 
-## 📍 Objetivos
+## 🏆 Trayectoria Deportiva
 
-- Implementar modelos de IA que analicen imágenes o datos de sensores para identificar situaciones de riesgo.
-- Aplicar técnicas de visión computacional y aprendizaje automático para el reconocimiento de patrones.
-- Evaluar la precisión y eficiencia del sistema en distintos escenarios urbanos.
+- **Cruzeiro (1992–1994):** Debutó profesionalmente con apenas 16 años.
+- **PSV Eindhoven (1994–1996):** Se consolidó como goleador en Europa.
+- **FC Barcelona (1996–1997):** Marcó 47 goles en 49 partidos y ganó la Supercopa de España, Copa del Rey y Recopa de Europa.
+- **Inter de Milán (1997–2002):** Ganó la Copa de la UEFA y el Balón de Oro.
+- **Real Madrid (2002–2007):** Parte de los "Galácticos", ganó La Liga y fue ídolo en el Bernabéu.
+- **AC Milan (2007–2008) y Corinthians (2009–2011):** Cerró su carrera en Brasil.
 
-## 🔍 Contenido del Repositorio
+## 🌍 Selección Brasileña
 
-- `notebooks/`: Cuadernos con ejemplos interactivos del modelo en acción.
-- `datasets/`: Datos utilizados para el entrenamiento y validación del sistema.
-- `src/`: Código fuente de la arquitectura del modelo y lógica de procesamiento.
-- `docs/`: Documentación técnica, flujos de trabajo y manuales de uso.
+- **Campeón del Mundo** en 1994 (sin jugar) y en 2002 (máximo goleador del torneo).
+- **Subcampeón** en 1998.
+- Ganador de la **Copa América** (1997, 1999) y la **Copa Confederaciones** (1997).
 
-## ⚙️ Tecnologías Utilizadas
+## 🧠 Legado
 
-- Python (pandas, numpy, OpenCV, scikit-learn)
-- Jupyter Notebooks
-- Modelos de detección preentrenados (YOLO, Faster R-CNN)
-- Librerías de visualización (matplotlib, seaborn)
+- Ganador de **2 Balones de Oro** (1997, 2002).
+- Elegido **Jugador Mundial de la FIFA** en tres ocasiones.
+- Considerado por muchos como el mejor “número 9” de la historia.
+- Desde 2018 hasta 2025 fue presidente del Real Valladolid en España.
 
-## 📊 Resultados Esperados
+## 📸 Imagen
 
-- Incremento en la capacidad de respuesta ante eventos inesperados.
-- Detección temprana de comportamientos sospechosos.
-- Generación de alertas automáticas para autoridades locales.
-
-## 🧠 Contribuciones Futuras
-
-- Integración con sensores IoT y cámaras en tiempo real.
-- Desarrollo de dashboards en Power BI para visualización geoespacial.
-- Evaluación en terreno con datos reales de tránsito peatonal y vehicular.
+![Ronaldo Nazário en acción](https://players.fcbarcelona.com/images/players/764/ronaldo-ronaldo-luis-nazario-da-lima.jpg)
 
 ---
 
-💬 _Este proyecto es parte de una iniciativa exploratoria para fusionar IA y seguridad ciudadana. Abierto a mejoras, contribuciones y pruebas en nuevas ciudades._
-
-
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⢠⡀⠀⠀⠀
-⠀⠀⢀⠁⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⡘⠧⡀⠀⠀
-⠀⡠⠃⠐⡆⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⡇⠀⠈⡃⠀
-⠀⡇⠀⢀⠇⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⢡⣤⣤⡇⠀
-⠀⣼⣿⡿⠀⠀⠀⠀⠀⠀⠀⡸⠿⠿⠿⢿⠁⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣧⠀
-⢰⣿⣿⠇⠀⠀⣠⣶⣶⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⣿⣿⣿⠀
-⣿⣿⣿⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⣿⣿⣿⡀
-⣿⣿⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⠟⠛⣿⡿⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃
-⠈⠉⠁⠉⠀⠀⢸⣿⣿⡇⣠⠀⣿⡇⢠⣦⠀⢸⣿⣿⣿⠋⠉⠉⠉⠉⠉⠁⠀
-⠀⠀⠀⠀⠀ ⠀⠀⣿⣿⣿⣿⠀⣿⡇⢸⣿⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⠀⣿⡇⢸⣿⠀ ⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⠀⣿⡇⢸⣿⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣦⣿⣿⣦⣤⣤⣿⣿⣿⠀⠀⠀
-
-
-
-SIUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+🔗 [Biografía completa en Wikipedia](https://es.wikipedia.org/wiki/Ronaldo)
